@@ -1,1 +1,2 @@
+[![Board Status](https://dev.azure.com/akashaman01/a15f5f8f-f708-4292-86fe-8e495b4608f9/5b91df87-6927-480e-8b1b-225cceac4a53/_apis/work/boardbadge/5b2ab782-c7af-4014-9bf0-4f41347e413e)](https://dev.azure.com/akashaman01/a15f5f8f-f708-4292-86fe-8e495b4608f9/_boards/board/t/5b91df87-6927-480e-8b1b-225cceac4a53/Microsoft.RequirementCategory)
 # AzureExplore
